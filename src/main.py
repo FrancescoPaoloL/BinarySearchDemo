@@ -1,5 +1,3 @@
-# main.py
-
 from binary_search import binary_search
 from first_last_occurrence import find_first_last_occurrence
 from search_2d_matrix import search_in_2d_matrix

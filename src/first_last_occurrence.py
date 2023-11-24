@@ -1,5 +1,3 @@
-# first_last_occurrence.py
-
 from binary_search import binary_search
 
 def find_first_last_occurrence(arr, target):

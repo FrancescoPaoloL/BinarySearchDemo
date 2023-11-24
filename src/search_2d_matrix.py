@@ -1,5 +1,3 @@
-# search_2d_matrix.py
-
 def search_in_2d_matrix(matrix, target):
     if not matrix or not matrix[0]:
         return False
